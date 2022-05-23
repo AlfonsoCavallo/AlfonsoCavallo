@@ -28,32 +28,32 @@ Competences
 During my formation i've learned to use:
 
 Linguaggi di programmazione
-•	Java
-•	Python
-•	Swift
-•	C
-•	R
+-	Java
+-	Python
+-	Swift
+-	C
+-	R
 
 Frameworks
-•	RASA
-•	ROS
-•	Spark
-•	Hadoop
-•	STM32CubeIDE
+-	RASA
+-	ROS
+-	Spark
+-	Hadoop
+-	STM32CubeIDE
 
 Versioning
-•	GitHub
-•	GitLab
+-	GitHub
+-	GitLab
 
 Database
-•	SQL
+-	SQL
 
 Tools
-•	IntelliJ
-•	PyCharm
-•	NetBeans
-•	Office Suite
-•	Google Colab
-•	Visual Studio Code
-•	Rstudio
-•	Matlab
+-	IntelliJ
+-	PyCharm
+-	NetBeans
+-	Office Suite
+-	Google Colab
+-	Visual Studio Code
+-	Rstudio
+-	Matlab
