@@ -23,13 +23,37 @@ I'm currently attending the **Artificial Intelligence** curriculum at master deg
 
 I like spending my free time playing and programming videogames, or personal ideas i would like to see implemented.
 
-Programming Languages
+Competences
 -----------
-During my formation i've learned to use (ordered by expertise):
+During my formation i've learned to use:
 
-1. Java
-2. Swift
-3. Python
-4. C
-5. C#
-6. VHDL 
+Linguaggi di programmazione
+•	Java
+•	Python
+•	Swift
+•	C
+•	R
+
+Frameworks
+•	RASA
+•	ROS
+•	Spark
+•	Hadoop
+•	STM32CubeIDE
+
+Versioning
+•	GitHub
+•	GitLab
+
+Database
+•	SQL
+
+Tools
+•	IntelliJ
+•	PyCharm
+•	NetBeans
+•	Office Suite
+•	Google Colab
+•	Visual Studio Code
+•	Rstudio
+•	Matlab
